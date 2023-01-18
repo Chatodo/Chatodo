@@ -13,20 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <span>Français</span> |
-  <a href="https://github.com/Chatodo/chatodo/blob/main/README_EN.md">English</a>
+  <span>English</span> |
+  <a href="https://github.com/Chatodo/chatodo/blob/main/README.md">Français</a>
 </p>
 
-<h1 align="center">Salut a toi jeune entrepreneur/entrepreneuse 👋</h1>
-<h3 align="left">:school: Actuellement en Master Informatique SFPN à Sorbonne Université </h3>
+<h1 align="center">Hello World !👋 I'm Ivan 👨‍💻</h1>
+<h3 align="left">:school: Currently pursuing a Master's degree in Computer Science (SFPN) at Sorbonne University. </h3>
 <h3 align="left">
-<a href="https://chatodo.github.io/">:globe_with_meridians: Ma page github pour en apprendre plus sur moi </a></h3>
-<h2 align="left">Petit résumé de mes compétences</h2>
+<a href="https://chatodo.github.io/en">:globe_with_meridians: My github page for learning more about me </a></h3>
+<h2 align="left">A brief summary of my skills</h2>
 <table>
   <tr>
-    <th>Programmation</th>
-    <th>Programmation Web </th>
-    <th>Outils</th>
+    <th>Programming</th>
+    <th>Web Programming</th>
+    <th>Other</th>
     <th>OS</th>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<h2 align="left"> Me contacter: </h2>
+<h2 align="left"> To contact me: </h2>
 <a href="https://www.linkedin.com/in/ivan-krivokuca/"> 
 	<img align="left" alt="chatodo"
      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
