@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <h2 align="left">Projets réalisés</h2>
 <p>La liste des projets que j'ai réalisés en licence est présent dans ce répertoire Github, avec un résumé détaillé pour presque chaque projet ! :)
 
-<a href="https://github.com/Chatodo/Projets-Licence>">👉 Cliquez ici</a></p>
+<a href="https://github.com/Chatodo/Projets-Licence">👉 Cliquez ici</a></p>
 Celle effectuée en Master n'est pas disponible, mais le sera dans un futur proche !</p>
 
 <h4 align="left">🏆 Mes projets les plus notables</h4>

@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 </table>
 <h2 align="left">Completed Projects</h2>
 <p>The list of projects I completed during my Bachelor's degree is available in this GitHub repository, with a detailed summary for almost every project! :)
-<a href="https://github.com/Chatodo/Projets-Licence>">👉 Click here</a></p>
+<a href="https://github.com/Chatodo/Projets-Licence/blob/main/README_EN.md">👉 Click here</a></p>
 Those completed during my Master's degree are not available yet, but will be in the near future!</p>
 
 <h4 align="left">🏆 My most notable projects</h4>
