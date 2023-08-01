@@ -17,10 +17,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/Chatodo/chatodo/blob/main/README.md">Français</a>
 </p>
 
-<h1 align="center">👨‍💻 The BEST coder in your area 🧠</h1>
-<h3 align="left">🎓 Currently pursuing a Master's degree in Computer Science (SFPN) at Sorbonne University. </h3>
+<h1 align="center">👨‍💻 The BEST computer scientist in your area 🧠</h1>
+<h3 align="left">🎓 Currently pursuing a Master's degree in Computer Science <a href="https://biomedicale.u-paris.fr/master-informatique/master-informatique-parcours-cybersecurite-et-esante/"> Cybersecurity and e-health at Université Paris Cité </h3>
 <h3 align="left">
-<a href="https://chatodo.github.io/en">🌐 My github page for learning more about me </a></h3>
+<a href="https://chatodo.github.io/en">🌐 My GitHub page that I had fun making to learn more about myself (maybe not up to date) </a></h3>
 <h2 align="left">A brief summary of my skills</h2>
 <table>
   <tr>
@@ -65,19 +65,16 @@ Here are some ideas to get you started:
 		</td>
   </tr>
 </table>
-<h2 align="left">Completed Projects</h2>
-<p>The list of projects I completed during my Bachelor's degree is available in this GitHub repository, with a detailed summary for almost every project! :)
-<a href="https://github.com/Chatodo/Projets-Licence/blob/main/README_EN.md">👉 Click here</a></p>
-Those completed during my Master's degree are not available yet, but will be in the near future!</p>
++ Networks (TCP/IP, routing)
+<br>
++ Cryptography (encryption, signature, etc.) and with OpenSSL
+<br>
++ System administration (Linux, Windows)
+<br>
 
-<h4 align="left">🏆 My most notable projects</h4>
-<ol>
-  <li>💻 <b> <a href= "https://github.com/Chatodo/Projet-SFPN"> SFPN Project </b> </a> : Development of a library of optimized functions
-for matrix operations modulo 2 (transpose) in C </li>
-  <li>🚋 <b> <a href= "https://github.com/Chatodo/Projets-Licence/tree/main/Citymapper%20Rennes"> Citymapper Rennes</b> </a> : An (incomplete) application for mapping the city of Rennes. 
-  The application is coded in Python with PyQt5 and uses a PostgreSQL database.</li>
-  <li>📺 <b> <a href= "https://github.com/Chatodo/Projets-Licence/tree/main/Projet%20Visulisation%20de%20Donn%C3%A9es"> Data Visualization </b> </a> : Thematic classification of television news topics </li>
-</ol>
+<h2 align="left">Completed Projects</h2>
+<p>The list of projects I've done under my bachelor's degree is here (with a readme for each project)!
+<a href="https://github.com/Chatodo/Projets-Licence/blob/main/README_EN.md">👉 Click here</a></p>
 
 <h2 align="left"> 📧 Contact: </h2>
 <a href="mailto:i%76an.krivo%6Buca%40ou%74loo%6B.f%72"> 

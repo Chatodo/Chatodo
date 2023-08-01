@@ -17,10 +17,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/Chatodo/chatodo/blob/main/README_EN.md">English</a>
 </p>
 
-<h1 align="center">👨‍💻 Codeur (extraordinaire) 🧠</h1>
-<h3 align="left">🎓 Actuellement en Master Informatique SFPN à Sorbonne Université </h3>
+<h1 align="center">👨‍💻 Informaticien (extraordinaire) 🧠</h1>
+<h3 align="left">🎓 Actuellement en Master Informatique <a href="https://biomedicale.u-paris.fr/master-informatique/master-informatique-parcours-cybersecurite-et-esante/"> Cybersécurité et esanté à Université Paris Cité </a> </h3>
 <h3 align="left">
-<a href="https://chatodo.github.io/">🌐 Ma page GitHub pour en apprendre plus sur moi </a></h3>
+<a href="https://chatodo.github.io/">🌐 Ma page GitHub que je me suis amusé à faire pour en apprendre un peu plus sur moi (peut-être pas à jour) </a></h3>
 <h2 align="left">Petit résumé de mes compétences</h2>
 <table>
   <tr>
@@ -66,20 +66,16 @@ Here are some ideas to get you started:
 		</td>
   </tr>
 </table>
++ Réseaux (TCP/IP, routage)
+<br>
++ Cryptographie (chiffrement, signature, etc.) et avec OpenSSL
+<br>
++ Administration système (Linux, Windows)
+<br>
+
 <h2 align="left">Projets réalisés</h2>
-<p>La liste des projets que j'ai réalisés en licence est présent dans ce répertoire Github, avec un résumé détaillé pour presque chaque projet ! :)
-
+<p>La liste des projets que j'ai réalisés en licence est présent ici (avec un readme pour chaque projet) !
 <a href="https://github.com/Chatodo/Projets-Licence">👉 Cliquez ici</a></p>
-Celle effectuée en Master n'est pas disponible, mais le sera dans un futur proche !</p>
-
-<h4 align="left">🏆 Mes projets les plus notables</h4>
-<ol>
-  <li>💻 <b> <a href= "https://github.com/Chatodo/Projet-SFPN"> Projet SFPN </b> </a> : Développement d'une bibliothèque de fonctions optimisées
-pour les opérations matricielles modulo 2 (tranposée) en C </li>
-  <li>🚋 <b> <a href= "https://github.com/Chatodo/Projets-Licence/tree/main/Citymapper%20Rennes"> Citymapper Rennes</b> </a> : Une application (non complète) de cartographie de la ville de Rennes. 
-  L'application est codée en Python avec PyQt5 et utilise une base de données PostgreSQL.</li>
-  <li>📺 <b> <a href= "https://github.com/Chatodo/Projets-Licence/tree/main/Projet%20Visulisation%20de%20Donn%C3%A9es"> Visulisation de Données </b> </a> : Classement thématique des sujets de journaux télévisés </li>
-</ol>
 
 <h2 align="left">📧 Me contacter: </h2>
 <a href="mailto:i%76an.krivo%6Buca%40ou%74loo%6B.f%72"> 
