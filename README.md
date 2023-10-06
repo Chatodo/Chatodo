@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">👨‍💻 Informaticien (extraordinaire) 🧠</h1>
 
-### 🎓 `Actuellement en Master Informatique` [Cybersécurité et esanté à Université Paris Cité](https://biomedicale.u-paris.fr/master-informatique/master-informatique-parcours-cybersecurite-et-esante/)
+### 🎓 Actuellement en Master Informatique [Cybersécurité et esanté à Université Paris Cité](https://biomedicale.u-paris.fr/master-informatique/master-informatique-parcours-cybersecurite-et-esante/)
 
 
-### 🌐 [Ma page GitHub](https://chatodo.github.io/) `que je me suis amusé à faire pour en apprendre un peu plus sur moi (peut-être pas à jour)`
+### 🌐 [Ma page GitHub](https://chatodo.github.io/) que je me suis amusé à faire pour en apprendre un peu plus sur moi (peut-être pas à jour)
 
 ## Petit résumé de mes compétences
 <table>

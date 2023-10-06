@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">👨‍💻 The BEST computer scientist in your area 🧠</h1>
 
-### 🎓 `Currently pursuing a Master's degree` [in Computer Science Cybersecurity and e-health at Université Paris Cité](https://biomedicale.u-paris.fr/master-informatique/master-informatique-parcours-cybersecurite-et-esante/)
+### 🎓 Currently pursuing a Master's degree [in Computer Science Cybersecurity and e-health at Université Paris Cité](https://biomedicale.u-paris.fr/master-informatique/master-informatique-parcours-cybersecurite-et-esante/)
 
-### 🌐 [My GitHub page](https://chatodo.github.io/en) `that I had fun making to learn more about myself (maybe not up to date)`
+### 🌐 [My GitHub page](https://chatodo.github.io/en) that I had fun making to learn more about myself (maybe not up to date)
 
 ## A brief summary of my skills
 <table>
