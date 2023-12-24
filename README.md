@@ -17,7 +17,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/Chatodo/chatodo/blob/main/README.md">Français</a>
 </p>
 
-<h1 align="center">👨‍💻 The BEST computer scientist in your area 🧠</h1>
+<h1 align="center">
+<img src="./cat-dancing.gif" alt="chat_qui_danse" width="200" height="200"/> <br>
+👨‍💻 The BEST computer scientist in your area 🧠
+</h1>
 
 ### 🎓 Currently pursuing a Master's Degree in Computer Science with a specialization [in Cybersecurity and e-health at Université Paris Cité](https://biomedicale.u-paris.fr/master-informatique/master-informatique-parcours-cybersecurite-et-esante/) (description of the course in french)
 
