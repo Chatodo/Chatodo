@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 🎓 Currently pursuing a Master's Degree in Computer Science with a specialization [in Cybersecurity and e-health at Université Paris Cité](https://biomedicale.u-paris.fr/master-informatique/master-informatique-parcours-cybersecurite-et-esante/) (description of the course in french)
 
-### 🌐 [Visit my GitHub page](https://chatodo.github.io/en) to learn more about me (potentially not up-to-date).
+### 🌐 [Visit my GitHub page](https://chatodo.github.io) to learn more about me (potentially not up-to-date).
 
 ## A brief (non-exhaustive) summary of my skills:
 <table>
