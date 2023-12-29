@@ -1,11 +1,11 @@
 <p align="center">
 	<span>Français</span> |
-	<a href="https://github.com/Chatodo/chatodo/blob/main/README_EN.md">English</a>
+	<a href="https://github.com/Chatodo/chatodo/blob/main/README.md">English</a>
 </p>
 
 <h1 align="center">
 <img src="./cat-dancing.gif" alt="chat_qui_danse" width="200" height="200"/> <br>
-👨‍💻 Informaticien (extraordinaire) 🧠
+<!-- 👨‍💻 Informaticien (extraordinaire) 🧠 -->
 </h1>
 
 ### 🎓 Actuellement en Master Informatique spécialisation [Cybersécurité et E-santé à Université Paris Cité](https://biomedicale.u-paris.fr/master-informatique/master-informatique-parcours-cybersecurite-et-esante/)
@@ -47,6 +47,7 @@
 
 - Calcul haute performance / Programmation parallèle (Open MPI, OpenMP, CUDA)
 - Manipulation de données sous Python (et R) avec Pandas, Numpy, Matplotlib
+- Docker
 
 Spécialisation en cybersécurité (grâce à ma formation et à mon investissement personnel), avec un intérêt prononcé pour **l'Internet des objets**, **la cryptographie** et **la protection des données**.
 

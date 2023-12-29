@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <span>English</span> |
-  <a href="https://github.com/Chatodo/chatodo/blob/main/README.md">Français</a>
+  <a href="https://github.com/Chatodo/chatodo/blob/main/README_FR.md">Français</a>
 </p>
 
 <h1 align="center">
 <img src="./cat-dancing.gif" alt="chat_qui_danse" width="200" height="200"/> <br>
-👨‍💻 The BEST computer scientist in your area 🧠
+<!-- 👨‍💻 The BEST computer scientist in your area 🧠 -->
 </h1>
 
 ### 🎓 Currently pursuing a Master's Degree in Computer Science with a specialization [in Cybersecurity and e-health at Université Paris Cité](https://biomedicale.u-paris.fr/master-informatique/master-informatique-parcours-cybersecurite-et-esante/) (description of the course in french)
 
-### 🌐 [Visit my GitHub page](https://chatodo.github.io/en) to learn more about me (potentially more up-to-date).
+### 🌐 [Visit my GitHub page](https://chatodo.github.io/en) to learn more about me (potentially not up-to-date).
 
 ## A brief (non-exhaustive) summary of my skills:
 <table>
@@ -59,7 +59,8 @@ Here are some ideas to get you started:
 </table>
 
 - High Performance Computing / Parallel Programming (Open MPI, OpenMP, CUDA)
-- Data Manipulation in Python (and R) using Pandas, Numpy, Matplotlib
+- Data Manipulation in Python (and R) with libraries such as Pandas, Numpy, Matplotlib
+- Docker
 
 Specialization in cybersecurity (thanks to my education and personal commitment), with a keen interest in the **Internet of Things**, **cryptography**, and **data protection**.
 
