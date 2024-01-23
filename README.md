@@ -1,4 +1,5 @@
 <!--
+https://github.com/anuraghazra/github-readme-stats
 **Chatodo/chatodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,13 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <span>English</span> |
-  <a href="https://github.com/Chatodo/chatodo/blob/main/README_FR.md">Français</a>
-</p>
-
 <h1 align="center">
-<img src="./cat-dancing.gif" alt="chat_qui_danse" width="200" height="200"/> <br>
+<img src="https://media1.tenor.com/m/W20GaE2tI1QAAAAC/cat-calico-cat.gif" alt="chat_qui_danse" width="200" height="200"/> <img src="https://media1.tenor.com/m/Jc9jT66AJRwAAAAd/chipi-chipi-chapa-chapa.gif" alt="chipi-chapa" width="300" height="200"/> <br>
 <!-- 👨‍💻 The BEST computer scientist in your area 🧠 -->
 </h1>
 
@@ -29,45 +25,46 @@ Here are some ideas to get you started:
 ## A brief (non-exhaustive) summary of my skills:
 <table>
 	<tr>
-	<th>Programmation</th>
-		<th>Outils</th>
+	<th>Programming</th>
+		<th>Tools</th>
 		<th>OS</th>
 	</tr>
 	<tr>
 		<td>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-			<img src="https://img.icons8.com/?size=256&id=9MJf0ngDwS8z&format=png" alt="bash" width="40" height="40"/>
-			<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" />
-			<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" />
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="matlab" />
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="R" />
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-plain.svg" width="40" height="40" alt="ocamerde" />
+			<img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+			<img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
+			<img width="40" height="40" src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
+			<img width="40" height="40" src="https://skillicons.dev/icons?i=php" alt="php" />
+			<img src="https://skillicons.dev/icons?i=matlab&theme=light" width="40" height="40" alt="matlab" />
+			<img src="https://skillicons.dev/icons?i=r&theme=light" width="40" height="40" alt="R" />
+			<img src="https://skillicons.dev/icons?i=java&theme=light" alt="java" width="40" height="40"/>
+			<img src="https://skillicons.dev/icons?i=ocaml" width="40" height="40" alt="ocashit" />
 		</td>
 		<td> 
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode" />
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" />
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40" alt="latex" />
-			<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="photoshop" />
+			<img src="https://skillicons.dev/icons?i=vscode&theme=light" width="40" height="40" alt="vscode" />
+			<img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="git" />
+			<img src="https://skillicons.dev/icons?i=latex&theme=light" width="40" height="40" alt="latex" />
+			<img src="https://skillicons.dev/icons?i=ps" width="40" height="40" alt="photoshop" />
 		</td>
 		<td>
-			<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" />
-			<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" />
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"  alt="ubuntu" />
+			<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="40" height="40" alt="windows" />
 		</td>
 	</tr>
 </table>
 
 - High Performance Computing / Parallel Programming (Open MPI, OpenMP, CUDA)
 - Data Manipulation in Python (and R) with libraries such as Pandas, Numpy, Matplotlib
-- Docker
+- DevOps : Docker, Kubernetes
+- Basic knowledge in Machine Learning
 
-Specialization in cybersecurity (thanks to my education and personal commitment), with a keen interest in the **Internet of Things**, **cryptography**, and **data protection**.
+Specialization in cybersecurity with an interest in the **Internet of Things**, **system/kernel programming**, **cryptography**, and **data protection**.
 
 #### Cybersecurity
 
 - Cryptography: encryption algorithms, signatures, certificates, key management, etc.
-Utilizing tools like OpenSSL (and also GnuPG)
+Utilizing OpenSSL (and also GnuPG)
 
 - Network Monitoring and Analysis with Wireshark
 - System Administration in Linux
