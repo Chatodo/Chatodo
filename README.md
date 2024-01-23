@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-<img src="https://media1.tenor.com/m/W20GaE2tI1QAAAAC/cat-calico-cat.gif" alt="chat_qui_danse" width="200" height="200"/> <img src="https://media1.tenor.com/m/Jc9jT66AJRwAAAAd/chipi-chipi-chapa-chapa.gif" alt="chipi-chapa" width="300" height="200"/> <br>
+<img src="cat_dance.gif" alt="cat_dance" width="200" height="200"/> <img src="https://media.giphy.com/media/YkHMAt23ZdcbZMgIgs/giphy.gif" alt="chipi_chapa_cat" width="300" height="200"/> <br>
 <!-- 👨‍💻 The BEST computer scientist in your area 🧠 -->
 </h1>
 
